@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAGU,wCAAQ;EACN,KAAK,EAAE,GAAG",
+"mappings": "AAAA,SAAU;EACN,KAAK,EAAE,IAAI;;AAML,wCAAQ;EACN,KAAK,EAAE,GAAG",
 "sources": ["challenge4.scss"],
 "names": [],
 "file": "challenge4.css"
