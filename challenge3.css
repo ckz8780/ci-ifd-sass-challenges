@@ -1,0 +1,24 @@
+.container, .wrapper, .item {
+  border: 1px solid #000;
+  border-radius: 10px; }
+
+.container {
+  width: 600px;
+  background-color: #666;
+  margin: 0 auto;
+  padding: 15px; }
+
+.wrapper {
+  float: left;
+  position: relative;
+  padding: 20px;
+  background-color: green; }
+
+.item {
+  font-size: 14px;
+  font-family: "Sans Pro", sans-serif;
+  font-weight: 700;
+  padding: 10px;
+  background-color: #fff; }
+
+/*# sourceMappingURL=challenge3.css.map */
