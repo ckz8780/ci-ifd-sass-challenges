@@ -1,0 +1,12 @@
+$colors: #aaa, #bbb, #ccc, #ddd;
+
+@each $color in $colors {
+    $i: index($colors, $color); // Get the index of the current color in the list (note they're 1-indexed)
+    .container-#{$i} {
+        height: 200px;
+        width: 200px;
+        border: 1px solid black;
+        margin-bottom: 20px;
+        background-color: $color;
+    }
+}
